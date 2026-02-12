@@ -106,9 +106,9 @@ export default function Review() {
       <div className="stats-grid">
         <div className="stat-item">
           <div className="stat-value" style={{ color: '#856404' }}>{pendingRecords.length}</div>
-          <div className待审核</div>
+          <div className="stat-label">待审核</div>
         </div>
-        <div="stat-label"> className="stat-item">
+        <div className="stat-item">
           <div className="stat-value" style={{ color: '#155724' }}>{approvedRecords.length}</div>
           <div className="stat-label">已通过</div>
         </div>
