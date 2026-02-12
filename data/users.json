@@ -1,0 +1,94 @@
+[
+  {
+    "id": "official-system-builtin",
+    "username": "官方审核员",
+    "name": "官方审核员",
+    "password": "10280613xrldyf",
+    "type": "official",
+    "phone": "官方账号",
+    "points": 0,
+    "pointsHistory": [],
+    "lastCheckIn": null,
+    "certified": true,
+    "createdAt": 1770888512093,
+    "currentStreak": 0,
+    "totalStreak": 0,
+    "lastStreakDate": null,
+    "streakTorches": 0,
+    "lotteryTickets": 1
+  },
+  {
+    "id": "1770891806677",
+    "name": "9178",
+    "username": "9178",
+    "phone": "12345678",
+    "type": "blind",
+    "certified": false,
+    "points": 130,
+    "currentStreak": 0,
+    "totalStreak": 0,
+    "lastStreakDate": null,
+    "streakTorches": 0,
+    "checkInStreak": 0,
+    "lastCheckIn": null,
+    "achievements": [],
+    "streakMasterTickets": 0,
+    "distanceMasterTickets": 0,
+    "totalDistance": 82,
+    "pointsHistory": [
+      {
+        "points": 70,
+        "earnedAt": 1770894191202000,
+        "expiresAt": 1780727202000000,
+        "source": "exercise",
+        "recordId": "1770894191202",
+        "description": "陪跑78.00km奖励"
+      },
+      {
+        "points": 60,
+        "earnedAt": 1770891909995000,
+        "expiresAt": 1780434995000000,
+        "source": "exercise",
+        "recordId": "1770891909995",
+        "description": "陪跑4.00km奖励"
+      }
+    ]
+  },
+  {
+    "id": "1770891822269",
+    "name": "Bryan-志愿者",
+    "username": "Bryan-志愿者",
+    "phone": "18616541865",
+    "type": "volunteer",
+    "certified": false,
+    "points": 161,
+    "currentStreak": 0,
+    "totalStreak": 0,
+    "lastStreakDate": null,
+    "streakTorches": 0,
+    "checkInStreak": 0,
+    "lastCheckIn": null,
+    "achievements": [],
+    "streakMasterTickets": 0,
+    "distanceMasterTickets": 0,
+    "totalDistance": 82,
+    "pointsHistory": [
+      {
+        "points": 70,
+        "earnedAt": 1770894191202000,
+        "expiresAt": 1780727202000000,
+        "source": "exercise",
+        "recordId": "1770894191202",
+        "description": "陪跑78.00km奖励"
+      },
+      {
+        "points": 70,
+        "earnedAt": 1770891909995000,
+        "expiresAt": 1780434995000000,
+        "source": "exercise",
+        "recordId": "1770891909995",
+        "description": "陪跑4.00km奖励"
+      }
+    ]
+  }
+]
