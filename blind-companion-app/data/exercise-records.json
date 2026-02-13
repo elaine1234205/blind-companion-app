@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1770896112872",
+    "recordId": "1770896064972",
+    "duration": 100,
+    "distance": 9178,
+    "pace": 0.010895619960775768,
+    "submittedAt": 1770896112867,
+    "status": "approved",
+    "submittedBy": "9178",
+    "createdAt": 1770896112872,
+    "approvedAt": 1770896131558
+  },
+  {
+    "id": "1770895436538",
+    "recordId": "1770895360468",
+    "duration": 91,
+    "distance": 9178,
+    "pace": 0.009915014164305949,
+    "submittedAt": 1770895436535,
+    "status": "approved",
+    "submittedBy": "9178",
+    "createdAt": 1770895436539,
+    "approvedAt": 1770895459614
+  },
+  {
+    "id": "1770894191202",
+    "recordId": "1770894167709",
+    "duration": 91,
+    "distance": 78,
+    "pace": 1.1666666666666667,
+    "submittedAt": 1770894191200,
+    "status": "approved",
+    "submittedBy": "9178",
+    "createdAt": 1770894191202,
+    "approvedAt": 1770895463264
+  },
+  {
+    "id": "1770891909995",
+    "recordId": "1770891841538",
+    "duration": 50,
+    "distance": 4,
+    "pace": 12.5,
+    "submittedAt": 1770891909994,
+    "status": "approved",
+    "submittedBy": "9178",
+    "createdAt": 1770891909996,
+    "approvedAt": 1770895466181
+  }
+]

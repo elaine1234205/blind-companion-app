@@ -1,0 +1,13 @@
+{
+  "name": "blind-companion-app",
+  "version": "1.0.0",
+  "description": "盲人陪跑应用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
